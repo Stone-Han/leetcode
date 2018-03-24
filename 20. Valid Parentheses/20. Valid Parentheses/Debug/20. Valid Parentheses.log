@@ -1,0 +1,29 @@
+﻿生成启动时间为 2018/3/24 10:56:10。
+     1>项目“D:\program\20. Valid Parentheses\20. Valid Parentheses\20. Valid Parentheses.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\20. Valid Parentheses.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Softwares\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\Softwares\glpk-4.45\include" /I"D:\Softwares\glpk-4.45\src" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\20. Valid Parentheses.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "20. Valid Parentheses.cpp"
+         20. Valid Parentheses.cpp
+     1>d:\program\20. valid parentheses\20. valid parentheses\20. valid parentheses.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Softwares\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\program\20. Valid Parentheses\Debug\20. Valid Parentheses.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Softwares\glpk-4.45\w32" glpk.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\20. Valid Parentheses.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\program\20. Valid Parentheses\Debug\20. Valid Parentheses.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\program\20. Valid Parentheses\Debug\20. Valid Parentheses.lib" /MACHINE:X86 "Debug\20. Valid Parentheses.exe.embed.manifest.res"
+         "Debug\20. Valid Parentheses.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\20. Valid Parentheses.exe.embed.manifest" /manifest "Debug\20. Valid Parentheses.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         20. Valid Parentheses.vcxproj -> D:\program\20. Valid Parentheses\Debug\20. Valid Parentheses.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\20. Valid Parentheses.unsuccessfulbuild”。
+         正在对“Debug\20. Valid Parentheses.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\program\20. Valid Parentheses\20. Valid Parentheses\20. Valid Parentheses.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.21

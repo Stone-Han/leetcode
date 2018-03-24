@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/3/24 11:36:43。
+     1>项目“D:\program\21. Merge Two Sorted Lists\21. Merge Two Sorted Lists\21. Merge Two Sorted Lists.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\21. Merge Two Sorted Lists.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         D:\Softwares\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\Softwares\glpk-4.45\include" /I"D:\Softwares\glpk-4.45\src" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\21. Merge Two Sorted Lists.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "21. Merge Two Sorted Lists.cpp"
+         21. Merge Two Sorted Lists.cpp
+     1>d:\program\21. merge two sorted lists\21. merge two sorted lists\21. merge two sorted lists.cpp(45): error C2440: “初始化”: 无法从“int”转换为“ListNode *”
+                 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>d:\program\21. merge two sorted lists\21. merge two sorted lists\21. merge two sorted lists.cpp(45): error C2078: 初始值设定项太多
+     1>d:\program\21. merge two sorted lists\21. merge two sorted lists\21. merge two sorted lists.cpp(46): error C2440: “初始化”: 无法从“int”转换为“ListNode *”
+                 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>d:\program\21. merge two sorted lists\21. merge two sorted lists\21. merge two sorted lists.cpp(46): error C2078: 初始值设定项太多
+     1>已完成生成项目“D:\program\21. Merge Two Sorted Lists\21. Merge Two Sorted Lists\21. Merge Two Sorted Lists.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.22
